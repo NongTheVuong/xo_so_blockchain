@@ -50,4 +50,4 @@ Compile → Deploy → Copy địa chỉ contract
 
 Gán vào contractAddress trong app.js
 
-![Uploading image.png…]()
+![Ảnh minh họa](lottery-ui.png)
